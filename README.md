@@ -1,7 +1,6 @@
 # STAT538-PROJECT
 The repository is built to store the report and notebook for the STAT538 final project. The objective is this project is to evaluate whether a credit card applicant will be able to pay the bill based on their demographic characteristic and historical bank data including past payment and bill amount. To classify applicants into two classes: defaulters and non-defaulters, two models: logistic regression and Naive Bayes classifier will be utilized in this project. 
 
-Data source: [UCI default of credit card clients Data Set ](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients)
 
 
 ## Components
